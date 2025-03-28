@@ -11,3 +11,8 @@
   - Branches, Repositórios e Commits
   - Pull requests, Merge e resolução de conflitos
   - Git Config, SSH access adn GPG keys
+
+### 🧮 Matemática Discreta
+- Tabela Verdade
+  - Linguagem natural e lógica
+  - Proposições, Conectivos e Lei de Morgan
