@@ -16,3 +16,12 @@
 - Tabela Verdade
   - Linguagem natural e lógica
   - Proposições, Conectivos e Lei de Morgan
+  - 
+### 📡 Programação para Robótica Móvel: Introdução à robótica
+- Robótica
+  - Robos, Eletrônica e Hardware
+
+### Arquitetura e Organização de Computadores: Organização de Sistemas de Computadores
+- Hardware e Computadores
+- Bases, Binário, Hexadecimal e Decimal
+- Portas lógicas e Algoritmos no computador
