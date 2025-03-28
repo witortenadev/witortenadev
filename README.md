@@ -1,16 +1,13 @@
-## Hi there 👋
+## 📚 Witor Tenã 
 
-<!--
-**witortenadev/witortenadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙ Logica de programação e Algoritmos: Introdução a Linguagens de programação:
+- Portugol
+  - Variáveis e seus tipos
+  - Input e Output
+  - Laços de repetição
 
-Here are some ideas to get you started:
+### 🎛 Gerência de Configuração e Controle de Versões
+- Github
+  - Branches, Repositórios e Commits
+  - Pull requests, Merge e resolução de conflitos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
