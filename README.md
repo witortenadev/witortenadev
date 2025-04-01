@@ -69,7 +69,7 @@
 		<h2>MVP</h2>
 		<ul>
 			<li>Protótipos e Brainstorming</li>
-			<li>Pesquisa e publico alvo</li>
+			<li>Pesquisa e público alvo</li>
 		</ul>
 	</ul>
 </details>
