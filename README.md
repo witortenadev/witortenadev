@@ -62,3 +62,14 @@
 		</ul>
 	</ul>
 </details>
+
+<details>
+	<summary>💵 PI - Projeto Interdisciplinar</summary>
+	<ul>
+		<h2>MVP</h2>
+		<ul>
+			<li>Protótipos e Brainstorming</li>
+			<li>Pesquisa e publico alvo</li>
+		</ul>
+	</ul>
+</details>
